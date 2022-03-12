@@ -1236,6 +1236,7 @@ sup {
   padding-top: 3.75rem;
   padding-bottom: 7.1875rem;
   background-position-x: -2px;
+  background-size: cover;
 }
 
 .components-section__title {
