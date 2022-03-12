@@ -1464,6 +1464,11 @@ sup {
   .stock-section::before{
     display: none;
   }
+  .hero-section__license{
+    position: relative;
+    top: -4.5rem;
+    color:#7d4d27;
+  }
 }
 
 @media screen and (max-width: 399.98px){
