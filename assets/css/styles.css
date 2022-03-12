@@ -1926,6 +1926,7 @@ sup {
 .get-promo__input-wrap {
   width: calc(100% - 20.9375rem);
   margin-right: 1rem;
+  z-index: 1;
 }
 
 @media screen and (max-width: 575.98px) {
