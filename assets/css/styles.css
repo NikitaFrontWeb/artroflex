@@ -1478,6 +1478,15 @@ sup {
   }
 }
 
+@media screen and (max-width: 373.98px){
+  .header__logo{
+    width: 89%;
+  }
+  .header .menu-btn{
+    margin-top: 19%;
+  }
+}
+
 .stock-section__title {
   font-weight: bold;
   font-size: 4rem;
@@ -1955,6 +1964,12 @@ sup {
 @media screen and (max-width: 767.98px) {
   .reception-section {
     padding: 6.25rem 0;
+  }
+}
+
+@media screen and (max-width: 575.98px){
+  .reception-section{
+    padding: 6.25rem 0 0;
   }
 }
 
