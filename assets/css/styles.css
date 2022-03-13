@@ -1478,12 +1478,27 @@ sup {
   }
 }
 
-@media screen and (max-width: 373.98px){
+@media screen and (max-width: 390.98px){
   .header__logo{
     width: 89%;
   }
   .header .menu-btn{
     margin-top: 19%;
+  }
+}
+
+@media screen and (max-width: 360.98px){
+  .header .menu-btn{
+    margin-top: 20%;
+  }
+}
+
+@media screen and (max-width: 340.98px){
+  .header__logo{
+    width: 87%;
+  }
+  .header .menu-btn{
+    margin-top: 21%;
   }
 }
 
